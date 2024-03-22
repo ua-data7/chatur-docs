@@ -1,4 +1,7 @@
 # chatur-docs
+
+[![Publish docs via GitHub](https://github.com/ua-data7/chatur-docs/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/ua-data7/chatur-docs/actions/workflows/gh-pages.yml)
+
 mkdocs material pages for CyVerse Chatur
 
 # Development
