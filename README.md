@@ -13,7 +13,7 @@ Follow the [Material for MKDocs instructions](https://squidfunk.github.io/mkdocs
 ```
 $ git clone https://github.com/tyson-swetnam/chatur-docs
 $ cd chatur-docs
-$ pip install -r requirements
+$ pip install -r requirements.txt
 $ mkdocs serve
 ```
 
