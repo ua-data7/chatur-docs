@@ -1,12 +1,11 @@
 docs_dir: docs/
-repo_name: 'tyson-swetnam/chatur-docs'
+repo_name: 'ua-data7/chatur-docs'
 repo_url: 'https://github.com/ua-data7/chatur-docs'
 
 site_name: 'Chatur'
 site_description: 'Chatur Documentation'
 site_author: 'CyVerse'
-site_url: https://tyson-swetnam.github.io/chatur-docs 
-
+site_url: https://docs.cyverse.ai
 edit_uri: edit/main/docs
 
 # Copyright
