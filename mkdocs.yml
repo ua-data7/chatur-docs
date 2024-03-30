@@ -59,9 +59,8 @@ theme:
     - navigation.tabs.sticky
     - navigation.indexes
     - navigation.top
-  favicon: assets/favicon.png
-  icon:
-    logo: material/cactus
+  logo: 'assets/uarizona.png'
+  favicon: 'assets/favicon.ico'
 
 extra_css:
   - stylesheets/extra.css
