@@ -28,7 +28,7 @@ Hagan Franks
 
 Ian McEwen
 
-Illyoung Choi
+Illyoung Choi PhD [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-9705-6355){target=_blank}
 
 [Jeffrey K. Gillan PhD](https://www.gillanscience.com/){target=_blank} [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-0731-3048){target=_blank}
 
