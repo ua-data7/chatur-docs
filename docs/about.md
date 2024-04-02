@@ -66,6 +66,6 @@ Tony Edgin
 
 Urvika Gola
 
-Zhuoyun Xu
+Zhuoyun Xu [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6322-3012){target=_blank}
 
 Zi Deng
