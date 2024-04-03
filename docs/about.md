@@ -56,7 +56,7 @@ Sarah Roberts
 
 Sean Davey
 
-Tina Johnson [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](http://orcid.org/0009-0007-8459-6276){target=_blank}
+Tina L. Johnson [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](http://orcid.org/0009-0007-8459-6276){target=_blank}
 
 Tina Lee
 
