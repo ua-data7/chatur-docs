@@ -26,13 +26,13 @@ Enrique Noriega
 
 Hagan Franks
 
-Ian McEwen
-
+Ian McEwen [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-7545-5788){target=_blank}
+ 
 Illyoung Choi PhD [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-9705-6355){target=_blank}
 
 [Jeffrey K. Gillan PhD](https://www.gillanscience.com/){target=_blank} [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-0731-3048){target=_blank}
 
-Jeremy Frady
+Jeremy Frady [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0002-8643-7678){target=_blank}
 
 Jim Davis
 
@@ -56,7 +56,7 @@ Sarah Roberts
 
 Sean Davey
 
-Tina Johnson
+Tina Johnson [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](http://orcid.org/0009-0007-8459-6276){target=_blank}
 
 Tina Lee
 
